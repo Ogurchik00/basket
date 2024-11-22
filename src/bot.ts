@@ -103,3 +103,9 @@ import parser from './parser/parser';
 // Баскетбол, Россия ipbl.pro division, ipbl. Prime division, Китай CPBL: события ТМ ТБ(четверти) общий исход, разница от 3 очков, мин кэф 1.75
 // 1хбет кибербаскетбол NBA 4x8
 // Фонбет баскетбол NBA 4×8 значения те же что и выше
+
+
+// Россия ipbl.pro division // Russia. IPBL. Pro Division
+// ipbl. Prime division // Russia. IPBL. Prime Division
+// Китай CPBL // China. CDBL
+// NBA 4x8 // NBA 4x8
